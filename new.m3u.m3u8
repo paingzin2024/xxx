@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:1, tvg-logo="https://www.oopsnew.com/wp-content/uploads/2021/01/True-Premier-HD-1.jpg"group-title="Sport",True Premier Football 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://219.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/True_Premier_Football_2.png/revision/latest?cb=20240217234152&path-prefix=vi"group-title="Sport",True Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png"group-title="Sport",Bein Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:1, tvg-logo="https://sport.livedoomovies.com:4432/02_epl2_720p/1711445089-8827A0E8-B851836A.png"group-title="Sport",True Premier Football 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://www.movie87hd.com/
+https://smart-tv.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTM3U
+#EXTINF:1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Channel7_logo.png"group-title="PSI Channels",Channel 7
+#EXCVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXCVLCOPT:http-referer=https://www.pyoneplay.com/
+https://pp-live.b-cdn.net/bcdn_token=XZIiHGu8Tx_MxTonr_ZKWKfJiV7R3v200nzgMPzfsUs&expires=1711620496&token_path=%2FLiveApp%2F/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png"group-title="PSI Channels",MRTV 4
+#EXCVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXCVLCOPT:http-referer=https://www.pyoneplay.com/
+https://pp-live.b-cdn.net/bcdn_token=MU9SuuaxC6l8ZE4Qm2_mdmzb_Ri68Nfw3Z7PxsRLnoU&expires=1711530843&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png"group-title="PSI Channels",mntv
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/4.1.5 (Linux;Android 14) ExoPlayerLib/2.10.8
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png"group-title="PSI Channels",Fortune Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0 
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png"group-title="PSI Channels",Channel K
+#EXCVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXCVLCOPT:http-referer=https://www.myanmartvchannels.com/
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png"group-title="PSI Channels",MRTV 4 
+#EXCVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXCVLCOPT:http-referer=https://www.myanmartvchannels.com/
+https://pp-live.b-cdn.net/bcdn_token=CKk7xuXoUus9ppoA5jvkQfaMGucY0Lpl_Skqv-ifpio&expires=1711621752&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/yy/ytv-mm.png"group-title="PSI Channels",YTV 
+#EXCVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXCVLCOPT:http-referer=https://www.myanmartvchannels.com/
+https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/chunks.m3u8?
+#EXTINF:1, tvg-logo="https://cdn6.aptoide.com/imgs/9/5/6/95687dfe84113d56ac93f938be45a188_icon.jpg?w=128"group-title="PSI Channels",Mahar 
+#EXCVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXCVLCOPT:http-referer=https://www.myanmartvchannels.com/
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:1, tvg-logo="https://www.lyngsat.com/logo/tv/num/5-plus-mm.png"group-title="PSI Channels",5 Plus 
+#EXCVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+#EXCVLCOPT:http-referer=https://www.myanmartvchannels.com/
+https://streammain.myanmartvchannels.com:999/website-5plus-stream/website-5plus-stream/chunks.m3u8?
+
+
